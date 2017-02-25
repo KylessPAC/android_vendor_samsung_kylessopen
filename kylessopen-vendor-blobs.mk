@@ -119,6 +119,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kylessopen/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/samsung/kylessopen/proprietary/lib/libqmi.so:system/lib/libqmi.so \
     vendor/samsung/kylessopen/proprietary/lib/libqueue.so:system/lib/libqueue.so \
+	vendor/samsung/kylessopen/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/kylessopen/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
     vendor/samsung/kylessopen/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/samsung/kylessopen/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
